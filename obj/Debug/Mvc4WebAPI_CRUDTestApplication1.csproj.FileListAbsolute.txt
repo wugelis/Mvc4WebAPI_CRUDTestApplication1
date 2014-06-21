@@ -1,0 +1,71 @@
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Mvc4WebAPI_CRUDTestApplication1.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Mvc4WebAPI_CRUDTestApplication1.pdb
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Antlr3.Runtime.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\EntityFramework.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Newtonsoft.Json.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.Formatting.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.WebRequest.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Helpers.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.WebHost.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Mvc.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Optimization.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Providers.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Razor.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Razor.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\WebGrease.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\EntityFramework.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Newtonsoft.Json.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.Formatting.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.WebRequest.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Helpers.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.WebHost.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Mvc.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Razor.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Razor.xml
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\obj\Debug\Mvc4WebAPI_CRUDTestApplication1.dll
+D:\VS2011_Project\MVC4\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\obj\Debug\Mvc4WebAPI_CRUDTestApplication1.pdb
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Mvc4WebAPI_CRUDTestApplication1.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Mvc4WebAPI_CRUDTestApplication1.pdb
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Antlr3.Runtime.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\EntityFramework.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Newtonsoft.Json.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.Formatting.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.WebRequest.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Helpers.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.WebHost.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Mvc.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Optimization.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Providers.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Razor.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\WebGrease.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\EntityFramework.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\Newtonsoft.Json.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.Formatting.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Net.Http.WebRequest.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Helpers.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Http.WebHost.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Mvc.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.Razor.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\obj\Debug\Mvc4WebAPI_CRUDTestApplication1.csprojResolveAssemblyReference.cache
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\obj\Debug\Mvc4WebAPI_CRUDTestApplication1.dll
+D:\ASP.NET MVC 4 RC 新增功能介紹\SampleCodes\VS2012\ASP.NET MVC4範例程式\4.0\Mvc4WebAPI_CRUDTestApplication1\Mvc4WebAPI_CRUDTestApplication1\obj\Debug\Mvc4WebAPI_CRUDTestApplication1.pdb
